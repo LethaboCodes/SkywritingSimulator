@@ -1,0 +1,17 @@
+# Compiled Java classes
+*.class
+
+# IDE-specific files
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+bin/
+out/
+build/
+
+# System files
+.DS_Store
+*.log
+*.swp
